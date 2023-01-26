@@ -5,6 +5,9 @@
 Essa é uma aplicação desenvolvida na Semana Spring React - SDS 3.0 promovida pela [DevSuperior](https://devsuperior.com.br/evento-sds),
 ela consiste em uma API Rest no back end junto a um dashboard de vendas no front end.
 
+## Diagrama de classes
+![DiagramaSDS3](https://user-images.githubusercontent.com/24193275/214951072-67d1ad17-6fee-4d34-9710-f08d2c792355.jpg)
+
 # Tecnologias utilizadas
 
 - Java
